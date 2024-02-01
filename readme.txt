@@ -32,7 +32,7 @@ Credits :
 
 - You do not have rights to redistribute,resell or offer files from this site to any third party
 
-- If you are a github member wish to remove backlink from the template, you need to donate min USD $10 to remove backlink (credits) form the template
+- This website template is an illustration of self taught reading & implementation via VS Code. Numerous HTML, CSS3, Javascript pdfs
 
 - If you have any question,feel free to contact us at galactuskonnect@gmail.com
 
