@@ -256,7 +256,7 @@ you can use the generic selector below, but it's slower:
 	content: "\e041";
 }
 .font-icon-social-deviant-art:before {
-[O	content: "\e042";
+	content: "\e042";
 }
 .font-icon-social-blogger:before {
 	content: "\e043";
@@ -783,3 +783,4 @@ you can use the generic selector below, but it's slower:
 .font-icon-adjust:before {
 	content: "\e0f1";
 }
+

@@ -1067,7 +1067,7 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 }
 
 @-moz-keyframes fadeInRightBig {
-[O	0% {
+	0% {
 		opacity: 0;
 		-moz-transform: translateX(2000px);
 	}
@@ -1498,7 +1498,7 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 	}
 	
 	100% {
-[I		opacity: 0;
+		opacity: 0;
 		transform: translateX(-2000px);
 	}
 }
@@ -2464,7 +2464,7 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 	}
 	
 	100% {
-[O		transform-origin: left bottom;
+		transform-origin: left bottom;
 		transform: rotate(0);
 		opacity: 1;
 	}

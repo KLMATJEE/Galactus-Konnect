@@ -214,7 +214,7 @@
   content: "\f008";
 }
 .fa-th-large:before {
-[O  content: "\f009";
+  content: "\f009";
 }
 .fa-th:before {
   content: "\f00a";
@@ -1063,7 +1063,7 @@
 .fa-html5:before {
   content: "\f13b";
 }
-[I.fa-css3:before {
+.fa-css3:before {
   content: "\f13c";
 }
 .fa-anchor:before {
@@ -1333,4 +1333,3 @@
 .fa-plus-square-o:before {
   content: "\f196";
 }
-
